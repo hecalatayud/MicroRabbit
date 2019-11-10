@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{34438DF1-BD36-4AB0-8937-16657BCFF9B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Domain.Core", "MicroRabbit.Domain.Core\MicroRabbit.Domain.Core.csproj", "{7F26367B-F0CC-4319-A4F3-02CDBE1C3542}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Domain", "MicroRabbit.Domain\MicroRabbit.Domain.csproj", "{7F26367B-F0CC-4319-A4F3-02CDBE1C3542}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
