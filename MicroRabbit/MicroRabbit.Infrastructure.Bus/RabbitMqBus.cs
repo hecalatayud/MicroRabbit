@@ -98,7 +98,7 @@ namespace MicroRabbit.Infrastructure.Bus
 
             catch (Exception e)
             {
-
+                
             }
         }
 
